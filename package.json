@@ -1,6 +1,6 @@
 {
   "name": "ashututor",
-  "version": "0.1.0",
+  "version": "1.1.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -25,4 +25,3 @@
     "eslint-config-next": "14.1.3"
   }
 }
-
